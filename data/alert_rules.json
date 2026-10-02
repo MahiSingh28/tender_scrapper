@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rule-civil",
+    "keyword": "civil works",
+    "enabled": true,
+    "color": "#d97706",
+    "soundEnabled": true,
+    "desktopNotify": true
+  },
+  {
+    "id": "rule-it",
+    "keyword": "it infrastructure",
+    "enabled": true,
+    "color": "#4f46e5",
+    "soundEnabled": true,
+    "desktopNotify": true
+  },
+  {
+    "id": "rule-solar",
+    "keyword": "solar",
+    "enabled": true,
+    "color": "#059669",
+    "soundEnabled": true,
+    "desktopNotify": true
+  },
+  {
+    "id": "rule-hospital",
+    "keyword": "hospital",
+    "enabled": true,
+    "color": "#e11d48",
+    "soundEnabled": true,
+    "desktopNotify": true
+  },
+  {
+    "id": "rule-water",
+    "keyword": "water supply",
+    "enabled": true,
+    "color": "#0284c7",
+    "soundEnabled": false,
+    "desktopNotify": true
+  }
+]

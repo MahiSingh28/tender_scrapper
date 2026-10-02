@@ -1,0 +1,6 @@
+{
+  "name": "Tender Compiler - Multi-State GePNIC Tender Scraper & Intelligence",
+  "description": "Live Indian government tender compilation platform with session-aware GePNIC portal fetching, persistent storage, tender intelligence rules, alerts, analytics, and CSV/JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

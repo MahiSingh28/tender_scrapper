@@ -1,0 +1,47 @@
+[
+  {
+    "id": "start-1790976339537",
+    "timestamp": "2:55:39 AM",
+    "state": "RUNNER",
+    "level": "info",
+    "message": "Starting real portal extraction for 1 portal(s): RJ. No synthetic tender rows will be created."
+  },
+  {
+    "id": "manual-1790976343986",
+    "timestamp": "02:55:43",
+    "state": "Rajasthan",
+    "level": "warning",
+    "message": "Browser opened for Rajasthan. Solve the CAPTCHA in the visible government portal, then click Continue in Tender Compiler."
+  },
+  {
+    "id": "captcha-1790976343994",
+    "timestamp": "2:55:43 AM",
+    "state": "Rajasthan",
+    "level": "warning",
+    "message": "A real government-portal browser window is open. Solve the CAPTCHA there, then click Continue CAPTCHA & Extract below."
+  },
+  {
+    "id": "manual-scan-1790976407677",
+    "timestamp": "02:56:47",
+    "state": "Rajasthan",
+    "level": "info",
+    "message": "Authenticated portal scan found 28 real tender detail records.",
+    "tendersFound": 28
+  },
+  {
+    "id": "manual-done-1790976407727",
+    "timestamp": "02:56:47",
+    "state": "Rajasthan",
+    "level": "success",
+    "message": "28 real tender records extracted after manual CAPTCHA verification.",
+    "tendersFound": 28
+  },
+  {
+    "id": "continue-1790976407758",
+    "timestamp": "2:56:47 AM",
+    "state": "COMPILER",
+    "level": "success",
+    "message": "Extracted 28 real tender records.",
+    "tendersFound": 28
+  }
+]
